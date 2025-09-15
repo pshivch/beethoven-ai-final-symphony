@@ -40,8 +40,13 @@ This repository includes interactive Jupyter notebooks that demonstrate the AI-d
 
 ### 📊 Sample Outputs
 | Note Frequency Distribution | Tempo Curve Simulation |
-|------------------------------|-------------------------|
+|-----------------------------|-------------------------|
 | 🎵 [Note Frequency Chart](notebooks/beethoven_demo.ipynb) | ⏱️ [Tempo Curve](notebooks/tempo_demo.ipynb) |
+
+➡️ You can open these notebooks directly in **Jupyter** or run them interactively with:  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/tree/main/notebooks/)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pshivch/beethoven-ai-final-symphony/main)
 
 ➡️ You can open these notebooks directly in [Jupyter](https://jupyter.org/) or run them interactively with:  
 
