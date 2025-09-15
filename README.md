@@ -1,8 +1,13 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![MIT License](https://img.shields.io/badge/License-MIT-green)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![Last Commit](https://img.shields.io/badge/Last_Commit-Today-success)
 ![Polyglot](https://img.shields.io/badge/Polyglot-ML|CV|RPA|GameTheory-purple)
+
+# 🎼 Beethoven AI: Final Symphony
+*A groundbreaking project merging Beethoven’s timeless genius with modern AI technology to redefine symphonic composition.*
+
 
 # 🎼 Beethoven AI: Final Symphony
 
