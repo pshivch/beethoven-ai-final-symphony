@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/carnegie_hall_ml.ipynb
+)
 # 🎼 Beethoven AI: Final Symphony
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/pshivch/beethoven-ai-final-symphony/actions)
