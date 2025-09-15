@@ -8,11 +8,6 @@
 # 🎼 Beethoven AI: Final Symphony
 *A groundbreaking project merging Beethoven’s timeless genius with modern AI technology to redefine symphonic composition.*
 
-
-# 🎼 Beethoven AI: Final Symphony
-
-*A groundbreaking project merging Beethoven’s timeless genius with modern AI technology to redefine symphonic composition.*
-
 ---
 
 ## 📖 Overview
