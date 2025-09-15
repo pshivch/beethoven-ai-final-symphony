@@ -41,6 +41,8 @@ This repository includes interactive Jupyter notebooks that demonstrate the AI-d
 
 ➡️ You can open these notebooks directly in [Jupyter](https://jupyter.org/) or run them interactively with [Google Colab](https://colab.research.google.com/) / [Binder](https://mybinder.org/).
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/notebooks/beethoven_demo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pshivch/beethoven-ai-final-symphony/HEAD)
 
 ## 🛠 Tech Stack
 - **Languages:** Python, R, C++, Swift, Julia  
