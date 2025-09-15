@@ -27,6 +27,21 @@ This fusion ensures compositions that are **rigorous, emotionally resonant, and 
 
 ---
 
+## 🎼 Demos
+
+This repository includes interactive Jupyter notebooks that demonstrate the AI-driven orchestration concepts:
+
+- **Beethoven Demo** → [notebooks/beethoven_demo.ipynb](notebooks/beethoven_demo.ipynb)  
+  Generates a mock note dataset and visualizes note frequency distribution.  
+  *(Intro to analyzing pitch patterns and Beethoven’s stylistic nuances.)*
+
+- **Tempo Demo** → [notebooks/tempo_demo.ipynb](notebooks/tempo_demo.ipynb)  
+  Simulates a tempo curve and renders rhythmic flow over time.  
+  *(Explores rhythmic depth and structural pacing inspired by Beethoven’s compositions.)*
+
+➡️ You can open these notebooks directly in [Jupyter](https://jupyter.org/) or run them interactively with [Google Colab](https://colab.research.google.com/) / [Binder](https://mybinder.org/).
+
+
 ## 🛠 Tech Stack
 - **Languages:** Python, R, C++, Swift, Julia  
 - **Frameworks:** TensorFlow, PyTorch, OpenCV, SwiftUI  
