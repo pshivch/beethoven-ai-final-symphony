@@ -26,6 +26,28 @@ The project applies five AI-driven pillars of orchestration, mapped to Beethoven
 This fusion ensures compositions that are **rigorous, emotionally resonant, and stylistically authentic.**
 
 ---
+## 🎼 Demos  
+
+This repository includes interactive Jupyter notebooks that demonstrate the AI-driven orchestration pillars.  
+
+- **Beethoven Demo** → [notebooks/beethoven_demo.ipynb](notebooks/beethoven_demo.ipynb)  
+  Generates a mock note dataset and visualizes note frequency distribution.  
+  *(Intro to analyzing pitch patterns and Beethoven’s stylistic nuances.)*  
+
+- **Tempo Demo** → [notebooks/tempo_demo.ipynb](notebooks/tempo_demo.ipynb)  
+  Simulates a tempo curve and renders rhythmic flow over time.  
+  *(Explores rhythmic depth and structural pacing inspired by Beethoven’s compositions.)*  
+
+📊 **Sample Outputs:**  
+| Note Frequency Distribution | Tempo Curve Simulation |
+|-----------------------------|-------------------------|
+| ![Note Frequency Chart](docs/images/note_freq.png) | ![Tempo Curve](docs/images/tempo_curve.png) |  
+
+➡️ You can open these notebooks directly in [Jupyter](https://jupyter.org) or run them interactively with Google Colab / Binder.  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pshivch/beethoven-ai-final-symphony/HEAD)  
+
 
 ## 🎼 Demos
 
