@@ -44,6 +44,9 @@ This repository includes interactive Jupyter notebooks that demonstrate the AI-d
 |-----------------------------|-------------------------|
 | 🎵 [Note Frequency Chart](notebooks/beethoven_demo.ipynb) | ⏱️ [Tempo Curve](notebooks/tempo_demo.ipynb) |
 
+📊 Sample Outputs
+| Note Frequency Distribution | Tempo Curve Simulation |
+...
 
 ## 🛠 Tech Stack
 - **Languages:** Python, R, C++, Swift, Julia  
