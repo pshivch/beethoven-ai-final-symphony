@@ -1,3 +1,20 @@
+<!-- Core tech -->
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![License](https://img.shields.io/github/license/pshivch/beethoven-ai-final-symphony)
+
+<!-- Repo activity -->
+![Last Commit](https://img.shields.io/github/last-commit/pshivch/beethoven-ai-final-symphony)
+![Stars](https://img.shields.io/github/stars/pshivch/beethoven-ai-final-symphony?style=social)
+![Contributors](https://img.shields.io/github/contributors/pshivch/beethoven-ai-final-symphony)
+
+<!-- CI/CD (shows once you set them up) -->
+![Build](https://github.com/pshivch/beethoven-ai-final-symphony/actions/workflows/ci.yml/badge.svg)
+[![codecov](https://codecov.io/gh/pshivch/beethoven-ai-final-symphony/branch/main/graph/badge.svg)](https://codecov.io/gh/pshivch/beethoven-ai-final-symphony)
+
+<!-- Polyglot proof -->
+![Polyglot](https://img.shields.io/badge/Polyglot-Python_|_R_|_C++_|_Swift_|_Go-purple)
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
