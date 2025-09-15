@@ -10,9 +10,6 @@
 ![Contributors](https://img.shields.io/github/contributors/pshivch/beethoven-ai-final-symphony)
 ![Codecov](https://codecov.io/gh/pshivch/beethoven-ai-final-symphony/branch/main/graph/badge.svg)
 
-# 🎼 Beethoven AI: Final Symphony
-*A groundbreaking project merging Beethoven’s timeless genius with modern AI technology to redefine symphonic composition.*
-
 
 # 🎼 Beethoven AI: Final Symphony
 *A groundbreaking project merging Beethoven’s timeless genius with modern AI technology to redefine symphonic composition.*
