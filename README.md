@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![Polyglot](https://img.shields.io/badge/Polyglot-ML|CV|RPA|GameTheory-purple)
+
 # 🎼 Beethoven AI: Final Symphony
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/pshivch/beethoven-ai-final-symphony/actions)
