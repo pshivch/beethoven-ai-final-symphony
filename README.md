@@ -1,12 +1,19 @@
-<!-- Project Badges -->
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
-![License: MIT](https://img.shields.io/badge/License-MIT-green)
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
-![Last Commit](https://img.shields.io/badge/Last_Commit-Today-success)
-![Polyglot](https://img.shields.io/badge/Polyglot-ML|CV|RPA|GameTheory-purple)
-![Stars](https://img.shields.io/github/stars/pshivch/beethoven-ai-final-symphony?style=social)
-![Contributors](https://img.shields.io/github/contributors/pshivch/beethoven-ai-final-symphony)
+<p align="center">
+  <!-- Row 1: Tech Stack -->
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+  <img src="https://img.shields.io/badge/Build-Passing-brightgreen" />
+</p>
+
+<p align="center">
+  <!-- Row 2: Project Status & Polyglot -->
+  <img src="https://img.shields.io/badge/Last%20Commit-Today-success" />
+  <img src="https://img.shields.io/badge/Polyglot-ML|CV|RPA|GameTheory-purple" />
+  <img src="https://img.shields.io/github/stars/pshivch/beethoven-ai-final-symphony?style=social" />
+  <img src="https://img.shields.io/github/contributors/pshivch/beethoven-ai-final-symphony" />
+</p>
+
 
 
 # 🎼 Beethoven AI: Final Symphony
