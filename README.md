@@ -11,11 +11,6 @@
 
 # 🎼 Beethoven AI: Final Symphony
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/pshivch/beethoven-ai-final-symphony/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/pshivch/beethoven-ai-final-symphony)](https://github.com/pshivch/beethoven-ai-final-symphony/commits/main)
-[![Issues](https://img.shields.io/github/issues/pshivch/beethoven-ai-final-symphony)](https://github.com/pshivch/beethoven-ai-final-symphony/issues)
-
 *A groundbreaking project merging Beethoven’s timeless genius with modern AI technology to redefine symphonic composition.*
 
 ---
