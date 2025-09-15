@@ -5,10 +5,8 @@
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Last Commit](https://img.shields.io/badge/Last_Commit-Today-success)
 ![Polyglot](https://img.shields.io/badge/Polyglot-ML|CV|RPA|GameTheory-purple)
-
 ![Stars](https://img.shields.io/github/stars/pshivch/beethoven-ai-final-symphony?style=social)
 ![Contributors](https://img.shields.io/github/contributors/pshivch/beethoven-ai-final-symphony)
-![Codecov](https://codecov.io/gh/pshivch/beethoven-ai-final-symphony/branch/main/graph/badge.svg)
 
 
 # 🎼 Beethoven AI: Final Symphony
