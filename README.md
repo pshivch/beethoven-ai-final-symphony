@@ -1,26 +1,18 @@
-<!-- Core tech -->
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
-![License](https://img.shields.io/github/license/pshivch/beethoven-ai-final-symphony)
-
-<!-- Repo activity -->
-![Last Commit](https://img.shields.io/github/last-commit/pshivch/beethoven-ai-final-symphony)
-![Stars](https://img.shields.io/github/stars/pshivch/beethoven-ai-final-symphony?style=social)
-![Contributors](https://img.shields.io/github/contributors/pshivch/beethoven-ai-final-symphony)
-
-<!-- CI/CD (shows once you set them up) -->
-![Build](https://github.com/pshivch/beethoven-ai-final-symphony/actions/workflows/ci.yml/badge.svg)
-[![codecov](https://codecov.io/gh/pshivch/beethoven-ai-final-symphony/branch/main/graph/badge.svg)](https://codecov.io/gh/pshivch/beethoven-ai-final-symphony)
-
-<!-- Polyglot proof -->
-![Polyglot](https://img.shields.io/badge/Polyglot-Python_|_R_|_C++_|_Swift_|_Go-purple)
-
+<!-- Project Badges -->
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Last Commit](https://img.shields.io/badge/Last_Commit-Today-success)
 ![Polyglot](https://img.shields.io/badge/Polyglot-ML|CV|RPA|GameTheory-purple)
+
+![Stars](https://img.shields.io/github/stars/pshivch/beethoven-ai-final-symphony?style=social)
+![Contributors](https://img.shields.io/github/contributors/pshivch/beethoven-ai-final-symphony)
+![Codecov](https://codecov.io/gh/pshivch/beethoven-ai-final-symphony/branch/main/graph/badge.svg)
+
+# 🎼 Beethoven AI: Final Symphony
+*A groundbreaking project merging Beethoven’s timeless genius with modern AI technology to redefine symphonic composition.*
+
 
 # 🎼 Beethoven AI: Final Symphony
 *A groundbreaking project merging Beethoven’s timeless genius with modern AI technology to redefine symphonic composition.*
