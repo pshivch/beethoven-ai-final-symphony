@@ -101,3 +101,7 @@ It’s not just about generating notes – it’s about:
 
 ## 📜 License
 MIT License – free to use, remix, and extend. Contributions welcome.
+## 📓 Notebooks
+- [01_OMR_demo.ipynb](01_OMR_demo.ipynb) — handwritten score → tokens → MusicXML round-trip.
+- [02_Gesture_demo.ipynb](02_Gesture_demo.ipynb) — conductor gestures → keypoints → real-time dynamics.
+
