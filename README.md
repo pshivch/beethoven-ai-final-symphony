@@ -1,3 +1,5 @@
+Beethoven AI: Final Symphony explores the frontier where computer science, musicology, and creativity converge.
+![Orchestration flow](orchestration_flow.png)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
