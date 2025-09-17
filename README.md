@@ -110,11 +110,12 @@ MIT License – free to use, remix, and extend. Contributions welcome.
 
 ## 📓 Notebooks  
 
-[![Open in Colab](...)](.../01_OMR_demo.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/01_OMR_demo.ipynb)  
 01_OMR_demo.ipynb — handwritten score → tokens → MusicXML round-trip.  
 
-[![Open in Colab](...)](.../02_Gesture_demo.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/02_Gesture_demo.ipynb)  
 02_Gesture_demo.ipynb — conductor gestures → keypoints → real-time dynamics.  
 
-[![Open in Colab](...)](.../03_Synthesis_demo.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/03_Synthesis_demo.ipynb)  
 03_Synthesis_demo.ipynb — symbolic tokens + gestures → synthesis & audio demo.  
+ymbolic tokens + gestures → synthesis & audio demo.  
