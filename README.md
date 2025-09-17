@@ -102,8 +102,6 @@ To install the core dependencies, run:
 
 ```bash
 pip install -r requirements.txt
-
----
 ---
 
 ## 📜 License
