@@ -104,9 +104,8 @@ To install the core dependencies, run:
 pip install -r requirements.txt
 
 ---
-
-## 📜 License
-MIT License – free to use, remix, and extend. Contributions welcome.
+## 📜 License  
+MIT License — free to use, remix, and extend. Contributions welcome.  
 
 ## 📓 Notebooks  
 
