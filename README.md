@@ -96,6 +96,12 @@ It’s not just about generating notes – it’s about:
 - Honoring Beethoven’s spirit through **stylistically authentic AI tools**  
 - Creating a **testbed for human–AI co-creation**  
 - Showing how **computer science + musicology** can merge into new symphonic forms  
+## ⚙️ Dependencies
+
+To install the core dependencies, run:
+
+```bash
+pip install -r requirements.txt
 
 ---
 
