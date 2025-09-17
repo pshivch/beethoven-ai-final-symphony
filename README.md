@@ -108,7 +108,6 @@ pip install -r requirements.txt
 MIT License — free to use, remix, and extend. Contributions welcome.  
 
 ## 📓 Notebooks  
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/01_OMR_demo.ipynb)  
 **01_OMR_demo.ipynb** — handwritten score → tokens → MusicXML round-trip.  
 
@@ -117,4 +116,3 @@ MIT License — free to use, remix, and extend. Contributions welcome.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/03_Synthesis_demo.ipynb)  
 **03_Synthesis_demo.ipynb** — symbolic tokens + gestures → synthesis & audio demo.  
-  
