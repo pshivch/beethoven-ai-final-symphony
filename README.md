@@ -130,12 +130,4 @@ MIT License – free to use, remix, and extend. Contributions welcome.
 - **03_Synthesis_demo.ipynb** — symbolic tokens + gestures → synthesis & audio demo  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/03_Synthesis_demo.ipynb)
 
-
-## 🎬 Examples
-
-| Input | Output |
-|-------|--------|
-| 📝 Handwritten Score (`examples/score_page.png`) | 🎼 Converted tokens + MusicXML |
-| 🎥 Conductor Video (`examples/conductor_short.mp4`) | 🎚 Extracted dynamics & tempo curves |
-
 **03_Synthesis_demo.ipynb** — symbolic tokens + gestures → synthesis & audio demo.  
