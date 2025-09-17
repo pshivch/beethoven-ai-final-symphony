@@ -1,4 +1,4 @@
-Beethoven AI: Final Symphony explores the frontier where computer science, musicology, and creativity converge.
+›Beethoven AI: Final Symphony explores the frontier where computer science, musicology, and creativity converge.
 ![Orchestration flow](orchestration_flow.png)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
@@ -101,9 +101,7 @@ It’s not just about generating notes – it’s about:
 
 ## 📜 License
 MIT License – free to use, remix, and extend. Contributions welcome.
-## 📓 Notebooks
-- [01_OMR_demo.ipynb](01_OMR_demo.ipynb) — handwritten score → tokens → MusicXML round-trip.
-- [02_Gesture_demo.ipynb](02_Gesture_demo.ipynb) — conductor gestures → keypoints → real-time dynamics.
+
 ## 📓 Notebooks  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/01_OMR_demo.ipynb)  
