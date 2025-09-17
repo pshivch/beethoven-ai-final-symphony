@@ -104,16 +104,18 @@ To install the core dependencies, run:
 pip install -r requirements.txt
 
 ---
+---
+
 ## 📜 License
-MIT License — free to use, remix, and extend. Contributions welcome.
+MIT License – free to use, remix, and extend. Contributions welcome.
 
-## 📓 Notebooks
-## 📓 Notebooks
-[![Open In Colab](...01_OMR_demo.ipynb)  
-**01_OMR_demo.ipynb** — handwritten score → tokens → MusicXML round-trip.
+## 📓 Notebooks  
 
-[![Open In Colab](...02_Gesture_demo.ipynb)  
-**02_Gesture_demo.ipynb** — conductor gestures → keypoints → real-time dynamics.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/01_OMR_demo.ipynb)  
+**01_OMR_demo.ipynb** — handwritten score → tokens → MusicXML round-trip.  
 
-[![Open In Colab](...03_Synthesis_demo.ipynb)  
-**03_Synthesis_demo.ipynb** — symbolic tokens + gestures → synthesis & audio demo.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/02_Gesture_demo.ipynb)  
+**02_Gesture_demo.ipynb** — conductor gestures → keypoints → real-time dynamics.  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/03_Synthesis_demo.ipynb)  
+**03_Synthesis_demo.ipynb** — symbolic tokens + gestures → synthesis & audio demo.  
