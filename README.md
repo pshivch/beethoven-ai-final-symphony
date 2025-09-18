@@ -100,7 +100,9 @@ It’s not just about generating notes – it’s about:
 - Showing how **computer science + musicology** can merge into new symphonic forms  
 
 ---
-## 🎼 Project Overview  
+# 🎼 Beethoven AI: Symphonic Co-Creation with Machine Learning & Human Creativity  
+
+## 🎼 Project Overview
 
 **Beethoven AI** explores human–AI symphonic co-creation — honoring Beethoven’s spirit through modern computational tools.  
 The pipeline integrates **motif extraction**, **gesture control**, and **symbolic synthesis** to reimagine orchestration workflows.  
