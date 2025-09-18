@@ -132,3 +132,15 @@ MIT License – free to use, remix, and extend. Contributions welcome.
 
 - [03_Synthesis_demo.ipynb](03_Synthesis_demo.ipynb) — symbolic tokens + gestures → synthesis & audio demo  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/03_Synthesis_demo.ipynb)
+## 🚀 Roadmap (In Progress)
+
+- [x] Upload starter Beethoven AI notebook (motif extraction + orchestration suggestions)  
+- [x] Add OMR, Gesture, and Synthesis demo notebooks with Colab links  
+- [ ] Expand motif extraction to support longer symphonic phrases  
+- [ ] Train ML models on Beethoven’s full repertoire for harmonic authenticity  
+- [ ] Prototype real-time Game-Theory co-creation loop  
+- [ ] Automate orchestration workflows with RPA scripts  
+- [ ] Generate demo symphonic fragments + showcase performance
+⚡ Note: All current notebooks are demo prototypes (proof-of-concept).  
+They demonstrate core functionality — OMR, gesture-to-sound, synthesis, and motif extraction —  
+and are being actively expanded into a full Beethoven AI orchestration pipeline. 🚀
