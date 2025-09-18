@@ -90,10 +90,10 @@ jupyter notebook
 
 ## 🎵 Inspiration
 
-Beethoven’s unfinished sketches represent **artistic genius halted by mortality.**  
+Beethoven’s unfinished sketches represent **an artistic genius halted by mortality**.  
 This project asks: *what if AI could help finish the symphony?*
 
-It’s not just about generating notes – it’s about:
+It’s not just about generating notes — it’s about:
 
 - Honoring Beethoven’s spirit through **stylistically authentic AI tools**  
 - Creating a **testbed for human–AI co-creation**  
@@ -128,21 +128,17 @@ MIT License – free to use, remix, and extend. Contributions welcome.
 
 ## 📓 Notebooks
 
-- **[01_beethoven_ai_final_symphony.ipynb](notebooks/01_beethoven_ai_final_symphony.ipynb)**  
-  🎼 Motif extraction, pitch contour analysis, and orchestration suggestions  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/notebooks/01_beethoven_ai_final_symphony.ipynb)
+- 🎼 [01_beethoven_ai_final_symphony.ipynb](notebooks/01_beethoven_ai_final_symphony.ipynb) — motif extraction, pitch contour analysis, orchestration suggestions  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/notebooks/01_beethoven_ai_final_symphony.ipynb)
 
-- **[01_OMR_demo.ipynb](notebooks/01_OMR_demo.ipynb)**  
-  📝 Handwritten score → tokens → MusicXML round-trip  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/notebooks/01_OMR_demo.ipynb)
+- 📝 [01_OMR_demo.ipynb](01_OMR_demo.ipynb) — handwritten score → tokens → MusicXML round-trip  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/01_OMR_demo.ipynb)
 
-- **[02_Gesture_demo.ipynb](notebooks/02_Gesture_demo.ipynb)**  
-  ✋ Conductor gestures → keypoints → real-time dynamics  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/notebooks/02_Gesture_demo.ipynb)
+- ✋ [02_Gesture_demo.ipynb](02_Gesture_demo.ipynb) — conductor gestures → keypoints → real-time dynamics  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/02_Gesture_demo.ipynb)
 
-- **[03_Synthesis_demo.ipynb](notebooks/03_Synthesis_demo.ipynb)**  
-  🎹 Symbolic tokens + gestures → synthesis & audio demo  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/notebooks/03_Synthesis_demo.ipynb)
+- 🎧 [03_Synthesis_demo.ipynb](03_Synthesis_demo.ipynb) — symbolic tokens + gestures → synthesis & audio demo  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/03_Synthesis_demo.ipynb)
 
 ## 🚀 Roadmap (In Progress)
 
