@@ -100,6 +100,11 @@ It’s not just about generating notes – it’s about:
 - Showing how **computer science + musicology** can merge into new symphonic forms  
 
 ---
+## 🎼 Project Overview  
+
+**Beethoven AI** explores human–AI symphonic co-creation — honoring Beethoven’s spirit through modern computational tools.  
+The pipeline integrates **motif extraction**, **gesture control**, and **symbolic synthesis** to reimagine orchestration workflows.  
+Current notebooks are **prototype demos** (proof-of-concept), actively evolving toward a full orchestration pipeline. 🚀  
 
 ## 📦 Dependencies
 
@@ -119,9 +124,9 @@ MIT License – free to use, remix, and extend. Contributions welcome.
 
 ---
 
-## 📓 Notebooks
+## 📓 Notebooks  
 
-- [01_beethoven_ai_final_symphony.ipynb](notebooks/01_beethoven_ai_final_symphony.ipynb) — motif extraction, pitch contour, and orchestration suggestions  
+- [01_beethoven_ai_final_symphony.ipynb](notebooks/01_beethoven_ai_final_symphony.ipynb) — motif extraction, pitch contour, orchestration suggestions  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/notebooks/01_beethoven_ai_final_symphony.ipynb)
 
 - [01_OMR_demo.ipynb](01_OMR_demo.ipynb) — handwritten score → tokens → MusicXML round-trip  
@@ -132,6 +137,7 @@ MIT License – free to use, remix, and extend. Contributions welcome.
 
 - [03_Synthesis_demo.ipynb](03_Synthesis_demo.ipynb) — symbolic tokens + gestures → synthesis & audio demo  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/03_Synthesis_demo.ipynb)
+
 ## 🚀 Roadmap (In Progress)
 
 > 🎼 These notebooks form the *Beethoven AI pipeline* — evolving step by step toward a unified orchestration framework.  
