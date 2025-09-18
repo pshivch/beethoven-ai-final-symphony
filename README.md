@@ -141,6 +141,6 @@ MIT License – free to use, remix, and extend. Contributions welcome.
 - [ ] Prototype real-time Game-Theory co-creation loop  
 - [ ] Automate orchestration workflows with RPA scripts  
 - [ ] Generate demo symphonic fragments + showcase performance
-⚡ Note: All current notebooks are demo prototypes (proof-of-concept).  
+⚡ **Note:** All current notebooks are prototype demos (proof-of-concept). 
 They demonstrate core functionality — OMR, gesture-to-sound, synthesis, and motif extraction —  
 and are being actively expanded into a full Beethoven AI orchestration pipeline. 🚀
