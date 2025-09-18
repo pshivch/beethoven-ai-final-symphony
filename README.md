@@ -74,8 +74,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-💡 *Tip: Use Python 3.9+ and a virtual environment (`venv` or `conda`) for best compatibility.*
-
 ---
 
 ## 🗺 Roadmap
