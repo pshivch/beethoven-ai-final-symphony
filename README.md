@@ -59,7 +59,7 @@ This repo anchors the **Carnegie Hall flagship orchestration framework**, linkin
 - 🤖 **ML Authenticity Models:** ensure harmonic and rhythmic authenticity.  
 - 🎮 **Game-Theory Collaboration:** real-time co-creation of musical passages.  
 - 📊 **Governance Dashboards:** orchestration health, motif tracking, project metrics.  
-- ⚙️ **Automated Orchestration:** RPA-powered part prep, scheduling, rehearsal support.  
+- ⚙️ **Automated Orchestration:** RPA-powered part prep, scheduling, rehearsal support. 
 
 ---
 
