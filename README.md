@@ -126,18 +126,21 @@ MIT License – free to use, remix, and extend. Contributions welcome.
 
 ## 📓 Notebooks
 
-- - 🎻 [03 Carnegie Hall Flagship (ADV)](notebooks/advanced/03_carnegie_hall_flagship_ADV.ipynb)
-- 🏰 [02 Disney AI: Dynamic Collab (ADV)](notebooks/advanced/02_disney_ai_dynamic_collab_ADV.ipynb)
-- 🎬 [12 Warner Cinematic Universe (ADV)](notebooks/advanced/12_warner_cinematic_universe_ADV.ipynb)
-- 🎮 [11 Sony Duelist Composer AI (ADV)](notebooks/advanced/11_sony_duelist_composer_ai_ADV.ipynb)
-- 📺 [10 NBCU Symphony Insights (ADV)](notebooks/advanced/10_nbcu_symphony_insights_ADV.ipynb)
-- 🎞️ [09 Paramount Archive to AI (ADV)](notebooks/advanced/09_paramount_archive_to_ai_ADV.ipynb)
-- 🎥 [08 Netflix Orchestral Storytelling (ADV)](notebooks/advanced/08_netflix_orchestral_storytelling_ADV.ipynb)
-- 🍏 [07 Apple Prestige Tech Music Ecosys (ADV)](notebooks/advanced/07_apple_prestige_tech_music_ecosys_ADV.ipynb)
-- 🚀 [06 Boeing RPA Aerospace Ops (ADV)](notebooks/advanced/06_boeing_rpa_aerospace_ops_ADV.ipynb)
-- 🛡️ [05 Northrop CV Defense (ADV)](notebooks/advanced/05_northrop_cv_defense_ADV.ipynb)
-- 🌌 [04 NASA Orbital Symphony (ADV)](notebooks/advanced/04_nasa_orbital_symphony_ADV.ipynb)
-- 🎼 [01 Beethoven AI: Final Symphony (ADV)](notebooks/advanced/01_beethoven_ai_final_symphony_ADV.ipynb)
+## 💻 Notebooks
+
+- 🎼 [01 Beethoven AI: Final Symphony (ADV)](notebooks/advanced/01_beethoven_ai_final_symphony_ADV.ipynb)  
+- 🎻 [02 Carnegie Hall Flagship (ADV)](notebooks/advanced/03_carnegie_hall_flagship_ADV.ipynb)  
+- 🏰 [03 Disney AI: Dynamic Collab (ADV)](notebooks/advanced/02_disney_ai_dynamic_collab_ADV.ipynb)  
+- 🎬 [04 Warner Cinematic Universe (ADV)](notebooks/advanced/12_warner_cinematic_universe_ADV.ipynb)  
+- 🎮 [05 Sony Duelist Composer AI (ADV)](notebooks/advanced/11_sony_duelist_composer_ai_ADV.ipynb)  
+- 📺 [06 NBCU Symphony Insights (ADV)](notebooks/advanced/10_nbcu_symphony_insights_ADV.ipynb)  
+- 🎞️ [07 Paramount Archive to AI (ADV)](notebooks/advanced/09_paramount_archive_to_ai_ADV.ipynb)  
+- 🎥 [08 Netflix Orchestral Storytelling (ADV)](notebooks/advanced/08_netflix_orchestral_storytelling_ADV.ipynb)  
+- 🍏 [09 Apple Prestige Tech Music Ecosys (ADV)](notebooks/advanced/07_apple_prestige_tech_music_ecosys_ADV.ipynb)  
+- 🚀 [10 Boeing RPA Aerospace Ops (ADV)](notebooks/advanced/06_boeing_rpa_aerospace_ops_ADV.ipynb)  
+- 🛡️ [11 Northrop CV Defense (ADV)](notebooks/advanced/05_northrop_cv_defense_ADV.ipynb)  
+- 🌌 [12 NASA Orbital Symphony (ADV)](notebooks/advanced/04_nasa_orbital_symphony_ADV.ipynb)  
+
 
 ## 🚀 Roadmap (In Progress)
 
