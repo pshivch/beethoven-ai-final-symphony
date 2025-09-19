@@ -100,11 +100,11 @@ It’s not just about generating notes — it’s about:
 ---
 # 🎼 Beethoven AI: Symphonic Co-Creation with Machine Learning & Human Creativity  
 
-## 🎼 Project Overview
-
-**Beethoven AI** explores human–AI symphonic co-creation — honoring Beethoven’s spirit through modern computational tools.  
-The pipeline integrates **motif extraction**, **gesture control**, and **symbolic synthesis** to reimagine orchestration workflows.  
-Current notebooks are **prototype demos** (proof-of-concept), actively evolving toward a full orchestration pipeline. 🚀  
+🎼 Project Overview
+Beethoven AI explores human–AI symphonic co-creation — honoring Beethoven’s spirit through modern computational tools.
+The pipeline integrates motif extraction, gesture control, and symbolic synthesis to reimagine orchestration workflows.
+Current notebooks are advanced projects, each aligned with Carnegie Hall’s innovation pillars and mapped to real-world industry mirrors (entertainment, aerospace, defense, and beyond).
+🚀
 
 ## 📦 Dependencies
 
