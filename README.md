@@ -124,8 +124,6 @@ MIT License – free to use, remix, and extend. Contributions welcome.
 
 ---
 
-## 📓 Notebooks
-
 ## 💻 Notebooks
 
 - 🎼 [01 Beethoven AI: Final Symphony (ADV)](notebooks/advanced/01_beethoven_ai_final_symphony_ADV.ipynb)  
