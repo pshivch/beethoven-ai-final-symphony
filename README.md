@@ -147,6 +147,8 @@ These notebooks form the **Beethoven AI orchestration pipeline** — evolving st
 - [ ] Automate orchestration workflows with RPA scripts  
 - [ ] Generate full symphonic fragments + performance showcases  
 
-⚡ **Note:** Current notebooks are **advanced mirrors** — each mapped to real-world domains (entertainment, aerospace, defense, and beyond), while integrating ML, CV, RPA, and algorithms into symphonic co-creation. 🚀
+⚡ Note: Current notebooks are advanced projects (mirrors) — each mapped to real-world domains 
+(entertainment, aerospace, defense, and beyond) while integrating ML, CV, RPA, and algorithms 
+into symphonic co-creation. 🚀
 
 
