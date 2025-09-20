@@ -31,8 +31,6 @@ This fusion ensures compositions that are **rigorous, emotionally resonant, and 
 
 ## 📂 Repo Structure
 
-## 📂 Repo Structure
-
 /design-system/   # Shared UI + orchestration components  
 /core-logic/     # Reusable pipelines, helpers, adapters  
 /governance/     # CODE_OF_CONDUCT, policies, templates  
