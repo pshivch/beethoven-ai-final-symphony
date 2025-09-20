@@ -103,15 +103,13 @@ Beethoven AI explores human–AI symphonic co-creation — honoring Beethoven’
 The pipeline integrates motif extraction, gesture control, and symbolic synthesis to reimagine orchestration workflows.
 Current notebooks are advanced projects, each aligned with Carnegie Hall’s innovation pillars and mapped to real-world industry mirrors (entertainment, aerospace, defense, and beyond). 🚀
 
-## 📦 Dependencies
+## 📦 Dependencies  
 
-To install the core dependencies, run:
+To set up the environment for advanced mirror notebooks, run:  
 
 ```bash
 pip install -r requirements.txt
-```
 
-💡 *Tip: Use Python 3.9+ and a virtual environment (`venv` or `conda`) for best compatibility.*
 
 ---
 
