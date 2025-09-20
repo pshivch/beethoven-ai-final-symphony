@@ -141,16 +141,15 @@ MIT License – free to use, remix, and extend. Contributions welcome.
 
 ## 🚀 Roadmap (In Progress)
 
-> 🎼 These notebooks form the *Beethoven AI pipeline* — evolving step by step toward a unified orchestration framework.  
+> These notebooks form the **Beethoven AI pipeline** — evolving step by step toward a unified orchestration framework.
 
-- [x] Upload starter Beethoven AI notebook (motif extraction + orchestration suggestions)  
-- [x] Add OMR, Gesture, and Synthesis demo notebooks with Colab links  
-- [ ] Expand motif extraction to support longer symphonic phrases  
-- [ ] Train ML models on Beethoven’s full repertoire for harmonic authenticity  
-- [ ] Prototype real-time Game-Theory co-creation loop  
-- [ ] Automate orchestration workflows with RPA scripts  
-- [ ] Generate demo symphonic fragments + showcase performance  
+- [x] Add **Beethoven AI: Final Symphony (ADV)** notebook (motif extraction + orchestration suggestions)
+- [x] Expand into 12 advanced **mirror notebooks** aligned with Carnegie Hall’s innovation pillars and industry partners
+- [ ] Enhance motif extraction to support longer symphonic phrases
+- [ ] Train ML models on Beethoven’s full repertoire for harmonic authenticity
+- [ ] Prototype real-time Game-Theory co-creation loop
+- [ ] Automate orchestration workflows with RPA scripts
+- [ ] Generate symphonic fragments + showcase performance
 
-⚡ **Note:** All current notebooks are **prototype demos — proof-of-concept**.  
-They demonstrate core functionality — OMR, gesture-to-sound, synthesis, and motif extraction —  
-and are being actively expanded into a full Beethoven AI orchestration pipeline. 🚀
+⚡ **Note:** Current notebooks are **advanced projects (mirrors)** — each mapped to real-world domains (entertainment, aerospace, defense, and beyond) while integrating ML, CV, RPA, and algorithms into symphonic co-creation. 🚀
+
