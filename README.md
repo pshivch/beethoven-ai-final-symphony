@@ -35,10 +35,9 @@ This fusion ensures compositions that are **rigorous, emotionally resonant, and 
 /core-logic/     # Reusable pipelines, helpers, adapters  
 /governance/     # CODE_OF_CONDUCT, policies, templates  
 /dashboards/     # Metrics, heatmaps, status boards  
-/examples/       # Minimal compositions + test fragments  
+/examples/       # Supporting fragments + auxiliary test motifs for orchestration  
 /notebooks/      # Advanced mirror notebooks (Carnegie Hall pillars + industry mappings)  
-
-
+  
 ---
 
 ## 🌍 Role in the Ecosystem
