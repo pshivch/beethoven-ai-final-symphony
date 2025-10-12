@@ -1,0 +1,49 @@
+name: Polyglot CI
+on: [push, pull_request]
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+
+      - name: Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Julia
+        uses: julia-actions/setup-julia@v2
+        with: { version: '1.10' }
+
+      - name: Deps
+        run: |
+          python -m pip install -U pip maturin pybind11 julia matplotlib numpy
+          python -c "import julia; julia.install()"
+
+      - name: Build Rust ext
+        run: |
+          cd rust_core
+          python -m pip install maturin
+          maturin develop --release
+          cd ..
+
+      - name: Build C++ ext
+        run: |
+          mkdir -p cpp_dsp/build && cd cpp_dsp/build
+          cmake .. && cmake --build . --config Release
+          cd ../..
+
+      - name: Run orchestrator + benches
+        env:
+          PYTHONPATH: ${{ github.workspace }}/rust_core/target/release:${{ github.workspace }}/cpp_dsp/build
+        run: |
+          python orchestrate.py
+          python benchmarks.py
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: proof-artifacts
+          path: artifacts/
