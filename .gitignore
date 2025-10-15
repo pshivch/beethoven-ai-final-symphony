@@ -1,0 +1,20 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editors
+.vscode/
+.idea/
+
+# Node (if any)
+node_modules/
+
+# Images/outputs you don’t want tracked (optional)
+*.mp4
+*.mov
+*.wav
