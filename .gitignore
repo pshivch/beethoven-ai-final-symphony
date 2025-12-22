@@ -18,3 +18,9 @@ node_modules/
 *.mp4
 *.mov
 *.wav
+
+# Ignore local backups / iCloud noise
+*Archive*/
+git_parent_backup_*/
+mirrors_exec/
+.DS_Store
