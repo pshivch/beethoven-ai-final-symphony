@@ -1,0 +1,9 @@
+{
+  "mirror": "05_paramount_restoration",
+  "proof": "Generated demo degraded/restored spectrogram artifacts (placeholder) to verify execution + outputs wiring.",
+  "artifacts": [
+    "outputs/degraded_spectrogram.png",
+    "outputs/restored_spectrogram.png"
+  ],
+  "next_upgrade": "Replace placeholder with real audio degradation + restoration pipeline."
+}
