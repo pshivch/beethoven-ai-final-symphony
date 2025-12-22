@@ -1,0 +1,8 @@
+{
+  "mirror": "10_nasa",
+  "artifacts": [
+    "nasa_telemetry.csv",
+    "telemetry_altitude.png"
+  ],
+  "notes": "Synthetic telemetry to demonstrate artifact generation."
+}
