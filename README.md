@@ -31,13 +31,15 @@ This fusion ensures compositions that are **rigorous, emotionally resonant, and 
 
 ## 📂 Repo Structure
 
-/design-system/   # Shared UI + orchestration components
-/core-logic/      # Reusable pipelines, helpers, adapters
-/governance/      # CODE_OF_CONDUCT, policies, templates
-/dashboards/      # Metrics, heatmaps, status boards
-/examples/        # Supporting fragments + auxiliary test motifs
-/notebooks/       # Advanced mirror notebooks (Carnegie Hall pillars + industry mappings)  
-  
+```plaintext
+/design-system/    # Shared UI + orchestration components
+/core-logic/       # Reusable pipelines, helpers, adapters
+/governance/       # CODE_OF_CONDUCT, policies, templates
+/dashboards/       # Metrics, heatmaps, status boards
+/examples/         # Minimal compositions + test fragments
+/notebooks/        # CV + ML demos for music + gesture + synthesis
+```
+
 ---
 
 ## 🌍 Role in the Ecosystem
@@ -57,7 +59,7 @@ This repo anchors the **Carnegie Hall flagship orchestration framework**, linkin
 - 🤖 **ML Authenticity Models:** ensure harmonic and rhythmic authenticity.  
 - 🎮 **Game-Theory Collaboration:** real-time co-creation of musical passages.  
 - 📊 **Governance Dashboards:** orchestration health, motif tracking, project metrics.  
-- ⚙️ **Automated Orchestration:** RPA-powered part prep, scheduling, rehearsal support. 
+- ⚙️ **Automated Orchestration:** RPA-powered part prep, scheduling, rehearsal support.  
 
 ---
 
@@ -71,6 +73,8 @@ cd beethoven-ai-final-symphony
 pip install -r requirements.txt
 jupyter notebook
 ```
+
+💡 *Tip: Use Python 3.9+ and a virtual environment (`venv` or `conda`) for best compatibility.*
 
 ---
 
@@ -86,30 +90,31 @@ jupyter notebook
 
 ## 🎵 Inspiration
 
-Beethoven’s unfinished sketches represent **an artistic genius halted by mortality**.  
+Beethoven’s unfinished sketches represent **artistic genius halted by mortality.**  
 This project asks: *what if AI could help finish the symphony?*
 
-It’s not just about generating notes — it’s about:
+It’s not just about generating notes – it’s about:
 
 - Honoring Beethoven’s spirit through **stylistically authentic AI tools**  
 - Creating a **testbed for human–AI co-creation**  
 - Showing how **computer science + musicology** can merge into new symphonic forms  
 
 ---
-# 🎼 Beethoven AI: Symphonic Co-Creation with Machine Learning & Human Creativity  
+## 🎼 Project Overview  
 
-🎼 Project Overview
-Beethoven AI explores human–AI symphonic co-creation — honoring Beethoven’s spirit through modern computational tools.
-The pipeline integrates motif extraction, gesture control, and symbolic synthesis to reimagine orchestration workflows.
-Current notebooks are advanced projects, each aligned with Carnegie Hall’s innovation pillars and mapped to real-world industry mirrors (entertainment, aerospace, defense, and beyond). 🚀
+**Beethoven AI** explores human–AI symphonic co-creation — honoring Beethoven’s spirit through modern computational tools.  
+The pipeline integrates **motif extraction**, **gesture control**, and **symbolic synthesis** to reimagine orchestration workflows.  
+Current notebooks are **prototype demos** (proof-of-concept), actively evolving toward a full orchestration pipeline. 🚀  
 
-## 📦 Dependencies  
+## 📦 Dependencies
 
-To set up the environment for advanced mirror notebooks, run:  
+To install the core dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+```
 
+💡 *Tip: Use Python 3.9+ and a virtual environment (`venv` or `conda`) for best compatibility.*
 
 ---
 
@@ -119,36 +124,32 @@ MIT License – free to use, remix, and extend. Contributions welcome.
 
 ---
 
-## 💻 Notebooks
+## 📓 Notebooks  
 
-- 🎼 [01 Beethoven AI: Final Symphony (ADV)](notebooks/advanced/01_beethoven_ai_final_symphony_ADV.ipynb)  
-- 🎻 [02 Carnegie Hall Flagship (ADV)](notebooks/advanced/03_carnegie_hall_flagship_ADV.ipynb)  
-- 🏰 [03 Disney AI: Dynamic Collab (ADV)](notebooks/advanced/02_disney_ai_dynamic_collab_ADV.ipynb)  
-- 🎬 [04 Warner Cinematic Universe (ADV)](notebooks/advanced/12_warner_cinematic_universe_ADV.ipynb)  
-- 🎮 [05 Sony Duelist Composer AI (ADV)](notebooks/advanced/11_sony_duelist_composer_ai_ADV.ipynb)  
-- 📺 [06 NBCU Symphony Insights (ADV)](notebooks/advanced/10_nbcu_symphony_insights_ADV.ipynb)  
-- 🎞️ [07 Paramount Archive to AI (ADV)](notebooks/advanced/09_paramount_archive_to_ai_ADV.ipynb)  
-- 🎥 [08 Netflix Orchestral Storytelling (ADV)](notebooks/advanced/08_netflix_orchestral_storytelling_ADV.ipynb)  
-- 🍏 [09 Apple Prestige Tech Music Ecosys (ADV)](notebooks/advanced/07_apple_prestige_tech_music_ecosys_ADV.ipynb)  
-- 🚀 [10 Boeing RPA Aerospace Ops (ADV)](notebooks/advanced/06_boeing_rpa_aerospace_ops_ADV.ipynb)  
-- 🛡️ [11 Northrop CV Defense (ADV)](notebooks/advanced/05_northrop_cv_defense_ADV.ipynb)  
-- 🌌 [12 NASA Orbital Symphony (ADV)](notebooks/advanced/04_nasa_orbital_symphony_ADV.ipynb)  
+- [01_beethoven_ai_final_symphony.ipynb](notebooks/01_beethoven_ai_final_symphony.ipynb) — motif extraction, pitch contour, orchestration suggestions  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/notebooks/01_beethoven_ai_final_symphony.ipynb)
 
+- [01_OMR_demo.ipynb](01_OMR_demo.ipynb) — handwritten score → tokens → MusicXML round-trip  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/01_OMR_demo.ipynb)
+
+- [02_Gesture_demo.ipynb](02_Gesture_demo.ipynb) — conductor gestures → keypoints → real-time dynamics  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/02_Gesture_demo.ipynb)
+
+- [03_Synthesis_demo.ipynb](03_Synthesis_demo.ipynb) — symbolic tokens + gestures → synthesis & audio demo  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pshivch/beethoven-ai-final-symphony/blob/main/03_Synthesis_demo.ipynb)
 
 ## 🚀 Roadmap (In Progress)
 
-These notebooks form the **Beethoven AI orchestration pipeline** — evolving step by step toward a unified framework of symphonic co-creation.
+> 🎼 These notebooks form the *Beethoven AI pipeline* — evolving step by step toward a unified orchestration framework.  
 
-- [x] Add **Beethoven AI: Final Symphony (ADV)** (motif extraction + orchestration suggestions)  
-- [x] Expand into **12 advanced mirror notebooks** aligned with Carnegie Hall’s innovation pillars + industry mirrors  
-- [ ] Enhance motif extraction to support longer symphonic phrases  
+- [x] Upload starter Beethoven AI notebook (motif extraction + orchestration suggestions)  
+- [x] Add OMR, Gesture, and Synthesis demo notebooks with Colab links  
+- [ ] Expand motif extraction to support longer symphonic phrases  
 - [ ] Train ML models on Beethoven’s full repertoire for harmonic authenticity  
 - [ ] Prototype real-time Game-Theory co-creation loop  
 - [ ] Automate orchestration workflows with RPA scripts  
-- [ ] Generate full symphonic fragments + performance showcases  
+- [ ] Generate demo symphonic fragments + showcase performance  
 
-⚡ Note: Current notebooks are advanced projects (mirrors) — each mapped to real-world domains 
-(entertainment, aerospace, defense, and beyond) while integrating ML, CV, RPA, and algorithms 
-into symphonic co-creation. 🚀
-
-
+⚡ **Note:** All current notebooks are **prototype demos — proof-of-concept**.  
+They demonstrate core functionality — OMR, gesture-to-sound, synthesis, and motif extraction —  
+and are being actively expanded into a full Beethoven AI orchestration pipeline. 🚀
