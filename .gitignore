@@ -24,3 +24,4 @@ node_modules/
 git_parent_backup_*/
 mirrors_exec/
 .DS_Store
+anaconda_projects/
