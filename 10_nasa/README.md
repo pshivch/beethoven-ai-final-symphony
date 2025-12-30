@@ -1,17 +1,10 @@
-# Mirror 10 — NASA
+# 10 nasa
 
-**Telemetry-Driven Orchestration System**
+Proof: This mirror contains real artifacts committed to `outputs/`.
 
-**Pipeline**  
-Telemetry → Mapping → Orchestration → Artifact
+## How to run (proof)
 
-**Primary Artifact**  
-outputs/telemetry_map.png
 
-**Supporting Data**  
-outputs/telemetry.csv
+## Artifacts
 
-**What this proves**  
-Raw telemetry streams can be transformed into structured control signals and interpretable system outputs for autonomous and mission-critical systems.
-
-✔ Executed
+See `outputs/` for generated proof artifacts (PNG/JSON/CSV/etc).
