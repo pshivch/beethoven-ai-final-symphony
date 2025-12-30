@@ -1,4 +1,4 @@
-# 09 northrop
+# 09 northrop grumman
 
 **Proof:** This mirror contains real artifacts committed to `outputs/`.
 
