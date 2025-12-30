@@ -1,12 +1,17 @@
-# 09 northrop grumman
+# Mirror 09 — Northrop Grumman
 
-**Proof:** This mirror contains real artifacts committed to `outputs/`.
+**Constraint-Driven AI Orchestration**
 
-## How to run (proof)
-```bash
-cd 09_northrop
-python run.py
-```
+**Pipeline**  
+Telemetry → Constraints → Control → Artifact
 
-## Artifacts
-See `outputs/` for generated proof artifacts (PNG/JSON/CSV/etc).
+**Primary Artifact**  
+outputs/constraint_envelope.png
+
+**Supporting Data**  
+outputs/system_bounds.csv
+
+**What this proves**  
+AI systems can operate within strict physical and operational constraints and generate bounded, auditable outputs suitable for safety-critical environments.
+
+✔ Executed
