@@ -1,0 +1,9 @@
+{
+  "project": "Netflix",
+  "status": "executed",
+  "artifacts": [
+    "engagement_curve.png",
+    "netflix_execution_proof.json"
+  ],
+  "note": "Synthetic personalization / engagement modeling demo"
+}
