@@ -4,7 +4,7 @@
 
 ## How to run (proof)
 ```bash
-cd 07_apple
+cd 07_apple_gesture_music
 python run.py
 ```
 

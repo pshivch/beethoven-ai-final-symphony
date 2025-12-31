@@ -4,7 +4,7 @@
 
 ## How to run (proof)
 ```bash
-cd 03_sony_duel_agents
+cd 03_sony_multiagent_duel
 python run.py
 ```
 

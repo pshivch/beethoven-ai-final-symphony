@@ -4,7 +4,7 @@
 
 ## How to run (proof)
 ```bash
-cd 06_netflix
+cd 06_netflix_orchestral_storytelling
 python run.py
 ```
 

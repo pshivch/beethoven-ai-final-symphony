@@ -4,7 +4,7 @@
 
 ## How to run (proof)
 ```bash
-cd 08_boeing
+cd 08_boeing_aerospace_ops
 python run.py
 ```
 
