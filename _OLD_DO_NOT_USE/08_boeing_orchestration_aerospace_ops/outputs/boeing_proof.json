@@ -1,8 +1,0 @@
-{
-  "mirror": "08_boeing",
-  "artifacts": [
-    "boeing_flight_signals.csv",
-    "altitude_trace.png"
-  ],
-  "notes": "Synthetic signals to demonstrate pipeline + artifact generation."
-}
