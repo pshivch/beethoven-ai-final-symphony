@@ -1,165 +1,61 @@
-from pathlib import Path
-import csv
+import os, csv, json, random
+from datetime import datetime, timedelta
 
-out = Path("outputs")
-out.mkdir(exist_ok=True)
+OUTDIR = "outputs"
+os.makedirs(OUTDIR, exist_ok=True)
 
-with open(out / "engagement_summary.csv", "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerow(["metric", "value"])
-    writer.writerow(["engagement_score", 0.82])
+# Generate a realistic-ish "engagement" time series (synthetic but valid proof artifact)
+random.seed(5)
+start = datetime.now() - timedelta(days=29)
 
-print("Mirror 05 executed: engagement_summary.csv generated")
-python3 run.py
-Mirror 05 executed: engagement_summary.csv generated
-ls outputs
-git add run.py outputs/engagement_summary.csv
-git commit -m "Execute Mirror 05: generate engagement summary artifact"
-git push
-python3 run.py
-python3 run.py
-git add ...
-git commit ...
-from pathlib import Path
-import csv
+rows = []
+base = 120
+for i in range(30):
+    day = start + timedelta(days=i)
+    # weekly seasonality + noise + small trend
+    weekly = 18 * (1 if day.weekday() in (4,5,6) else -0.3)
+    trend = i * 0.8
+    noise = random.randint(-12, 12)
+    plays = max(0, int(base + weekly + trend + noise))
+    likes = max(0, int(plays * random.uniform(0.08, 0.18)))
+    shares = max(0, int(plays * random.uniform(0.01, 0.05)))
+    completion_rate = round(random.uniform(0.62, 0.93), 3)
+    rows.append([day.strftime("%Y-%m-%d"), plays, likes, shares, completion_rate])
 
-out = Path("outputs")
-out.mkdir(exist_ok=True)
+csv_path = os.path.join(OUTDIR, "engagement_summary.csv")
+with open(csv_path, "w", newline="") as f:
+    w = csv.writer(f)
+    w.writerow(["date", "plays", "likes", "shares", "completion_rate"])
+    w.writerows(rows)
 
-with open(out / "engagement_summary.csv", "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerow(["metric", "value"])
-    writer.writerow(["engagement_score", 0.82])
+# Simple summary JSON (second artifact)
+plays_vals = [r[1] for r in rows]
+summary = {
+    "days": len(rows),
+    "plays_total": sum(plays_vals),
+    "plays_avg": round(sum(plays_vals) / len(plays_vals), 2),
+    "plays_min": min(plays_vals),
+    "plays_max": max(plays_vals),
+}
+json_path = os.path.join(OUTDIR, "engagement_summary.json")
+with open(json_path, "w") as f:
+    json.dump(summary, f, indent=2)
 
-print("Mirror 05 executed: engagement_summary.csv generated")
-Priyas-MacBook-Pro:05_paramount_content_dynamics$
-python3 run.py
-Mirror 05 executed: engagement_summary.csv generated
-ls outputs
-engagement_summary.csv
-git add run.py outputs/engagement_summary.csv
-git commit -m "Execute Mirror 05: generate engagement summary artifact"
-git push
-python3 run.py
-python3 run.py
-ls outputs
-git add ...
-git commit ...
-git push
-python3 run.py
-ls outputs
-git add ...
-git commit ...
-git push
-from pathlib import Path
-import csv
+# Optional plot PNG (third artifact)
+try:
+    import matplotlib.pyplot as plt
+    dates = [r[0] for r in rows]
+    plays = [r[1] for r in rows]
+    plt.figure(figsize=(10,4))
+    plt.plot(dates, plays)
+    plt.xticks(rotation=45, ha="right")
+    plt.title("Mirror 05 — Paramount: Engagement Over Time (Synthetic Proof)")
+    plt.tight_layout()
+    plt.savefig(os.path.join(OUTDIR, "engagement_over_time.png"), dpi=160)
+    plt.close()
+except Exception as e:
+    # If matplotlib isn't available, we still have CSV+JSON proof
+    with open(os.path.join(OUTDIR, "plot_warning.txt"), "w") as f:
+        f.write(str(e))
 
-out = Path("outputs")
-out.mkdir(exist_ok=True)
-
-with open(out / "engagement_summary.csv", "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerow(["metric", "value"])
-    writer.writerow(["engagement_score", 0.82])
-
-print("Mirror 05 executed: engagement_summary.csv generated")
-Priyas-MacBook-Pro:05_paramount_content_dynamics$
-python3 run.py
-python3 run.py
-Mirror 05 executed: engagement_summary.csv generated
-ls outputs
-engagement_summary.csv
-git add run.py outputs/engagement_summary.csv
-git commit -m "Execute Mirror 05: generate engagement summary artifact"
-git push
-python3 run.py
-python3 run.py
-ls outputs
-git add ...
-git commit ...
-git push
-python3 run.py
-ls outputs
-git add ...
-git commit ...
-git push
-Priyas-MacBook-Pro:05_paramount_content_dynamics$
-python3 run.py
-Mirror 05 executed: engagement_summary.csv generated
-ls outputs
-engagement_summary.csv
-git add run.py outputs/engagement_summary.csv
-git commit -m "Execute Mirror 05: generate engagement summary artifact"
-git push
-python3 run.py
-python3 run.py
-python3 run.py
-ls outputs
-git add ...
-git commit ...
-git push
-import csv
-from pathlib import Path
-
-out = Path("outputs")
-out.mkdir(exist_ok=True)
-
-with open(out / "engagement_summary.csv", "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerow(["metric", "value"])
-    writer.writerow(["engagement_score", 0.82])
-
-print("Mirror 05 executed: engagement_summary.csv generated")
-Priyas-MacBook-Pro:05_paramount_content_dynamics$
-python3 run.py
-Mirror 05 executed: engagement_summary.csv generated
-Mirror 05 executed: engagement_summary.csv generated
-git add run.py outputs/engagement_summary.csv
-git commit -m "Execute Mirror 05: generate engagement summary artifact"
-git push
-git add run.py outputs/engagement_summary.csv
-git commit -m "Execute Mirror 05: generate engagement summary artifact"
-git push
-import csv
-from pathlib import Path
-
-out = Path("outputs")
-out.mkdir(exist_ok=True)
-
-with open(out / "engagement_summary.csv", "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerow(["metric", "value"])
-    writer.writerow(["engagement_score", 0.82])
-
-print("Mirror 05 executed: engagement_summary.csv generated")
-Priyas-MacBook-Pro:05_paramount_content_dynamics$
-Priyas-MacBook-Pro:05_paramount_content_dynamics$
-python3 run.py
-Mirror 05 executed: engagement_summary.csv generated
-Mirror 05 executed: engagement_summary.csv generated
-git add run.py outputs/engagement_summary.csv
-git commit -m "Execute Mirror 05: generate engagement summary artifact"
-git push
- ^X Exit
-^X Exit
-import csv
-from pathlib import Path
-
-out = Path("outputs")
-out.mkdir(exist_ok=True)
-
-with open(out / "engagement_summary.csv", "w", newline="") as f:
-    writer = csv.writer(f)
-    writer.writerow(["metric", "value"])
-    writer.writerow(["engagement_score", 0.82])
-
-print("Mirror 05 executed: engagement_summary.csv generated")
-Priyas-MacBook-Pro:05_paramount_content_dynamics$
-python3 run.py
-python3 run.py
-Mirror 05 executed: engagement_summary.csv generated
-Mirror 05 executed: engagement_summary.csv generated
-git add run.py outputs/engagement_summary.csv
-git commit -m "Execute Mirror 05: generate engagement summary artifact"
-git push
-
+print("Mirror 05 executed: outputs/engagement_summary.csv + .json (+ png if available)")
