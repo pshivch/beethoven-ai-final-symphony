@@ -1,12 +1,14 @@
-# 03 sony duel agents
+## 03 — Sony: Multi-Agent Musical Duel
 
 **Proof:** This mirror contains real artifacts committed to `outputs/`.
 
-## How to run (proof)
-```bash
-cd 03_sony_multiagent_duel
-python run.py
-```
+**What this proves:**
+Signal → agent state & reward signals  
+Model → multi-agent reinforcement learning (competitive / cooperative dynamics)  
+Output → emergent musical control patterns from agent interaction
 
-## Artifacts
-See `outputs/` for generated proof artifacts (PNG/JSON/CSV/etc).
+## How to run (proof)
+
+```bash
+cd 03_sony_multi_agent_duel
+python run.py
