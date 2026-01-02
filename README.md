@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎼 Beethoven AI: Final Symphony
 
 An AI orchestration portfolio translating musical intelligence into executable systems.
@@ -21,3 +22,23 @@ This repository contains **10 executed AI mirrors**, each with:
 10 — NASA · Telemetry → Orchestration
 
 Together, these systems form a single orchestration engine expressed across three stages of maturity: perception (signal extraction from emotion, narrative, gesture, and telemetry), intelligence (reasoning, learning, and decision-making), and orchestration (execution under real-world constraints). Each mirror is a completed, runnable pipeline with generated artifacts.
+=======
+# Polyglot Orchestration Proof (Rust + C++ + Julia + Python)
+
+**What it proves**
+- Low-latency kernels in **Rust** (DTW-lite + variance)
+- Performance-critical harmonic metric in **C++** (pybind11)
+- Algorithmic composition primitive in **Julia**
+- Thin **Python** layer orchestrating all 3 + emitting benchmarks & charts
+
+**Run**
+```bash
+python -m pip install -r requirements.txt
+# build Rust and C++ (see repo instructions below)
+python orchestrate.py && python benchmarks.py
+```
+
+Artifacts: `artifacts/motifs.png`, `artifacts/metrics.json`
+
+**CI**: GitHub Actions builds Rust/C++ modules, runs Julia via PyJulia, executes the pipeline, and publishes artifacts.
+>>>>>>> feat/polyglot-proof

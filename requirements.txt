@@ -1,7 +1,3 @@
-numpy
+julia
 matplotlib
-opencv-python
-mediapipe
-music21
-tensorflow
-torch
+numpy
