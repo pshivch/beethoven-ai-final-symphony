@@ -13,14 +13,21 @@ This repository contains **10 executed AI mirrors**, each with:
 02 — Warner Bros · Narrative Tension → Tempo  
 03 — Sony · Multi-Agent Composer Duel  
 04 — NBCUniversal · Motif Recommendation  
-05 — Paramount · Archive Restoration  
+05 — Paramount · Content Dynamics  
 06 — Netflix · Orchestral Storytelling  
 07 — Apple · Gesture → Music Systems  
-08 — Boeing · RPA Aerospace Ops  
+08 — Boeing · Aerospace Operations  
 09 — Northrop Grumman · Autonomous Control  
-10 — NASA · Telemetry → Orchestration
+10 — NASA · Telemetry → Orchestration  
 
-Together, these systems form a single orchestration engine expressed across three stages of maturity: perception (signal extraction from emotion, narrative, gesture, and telemetry), intelligence (reasoning, learning, and decision-making), and orchestration (execution under real-world constraints). Each mirror is a completed, runnable pipeline with generated artifacts.
-=======
+---
 
-Artifacts: `artifacts/motifs.png`, `artifacts/metrics.json`
+### Orchestration Trilogy
+
+Together, these mirrors form a single orchestration engine across three stages:
+
+**Perception** — signal extraction from emotion, narrative, gesture, and telemetry  
+**Intelligence** — modeling, reasoning, and decision-making  
+**Orchestration** — execution under real-world constraints  
+
+Each mirror is a completed, runnable pipeline with generated artifacts.
