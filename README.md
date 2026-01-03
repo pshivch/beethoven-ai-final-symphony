@@ -22,12 +22,12 @@ This repository contains **10 executed AI mirrors**, each with:
 
 ---
 
-### Orchestration Trilogy
+## End-to-End Orchestration Architecture
 
-Together, these mirrors form a single orchestration engine across three stages:
+These mirrors together form a single orchestration engine across three stages:
 
-**Perception** — signal extraction from emotion, narrative, gesture, and telemetry  
-**Intelligence** — modeling, reasoning, and decision-making  
-**Orchestration** — execution under real-world constraints  
+Perception — signal extraction from emotion, narrative, gesture, and telemetry  
+Intelligence — modeling, reasoning, and decision-making  
+Orchestration — execution under real-world constraints
 
 Each mirror is a completed, runnable pipeline with generated artifacts.
