@@ -1,8 +1,0 @@
-cmake_minimum_required(VERSION 3.18)
-project(cpp_dsp)
-set(CMAKE_CXX_STANDARD 17)
-find_package(Python3 COMPONENTS Interpreter Development REQUIRED)
-find_package(pybind11 CONFIG REQUIRED)
-add_library(cpp_dsp MODULE ../pybind/polyphony_bind.cpp polyphony.cpp)
-target_link_libraries(cpp_dsp PRIVATE pybind11::module)
-set_target_properties(cpp_dsp PROPERTIES PREFIX "" SUFFIX "${PYTHON_MODULE_EXTENSION}")
