@@ -2,14 +2,12 @@
 
 **Proof:** This mirror contains real artifacts committed to `outputs/`.
 
-**What this proves:**
-Signal → audience interaction & motif frequency time-series  
-Model → aggregation, normalization, and recommendation logic  
-Output → structured signals driving content recommendation systems  
+### What this proves
+- **Signal ingestion:** audience interaction data analyzed as motif frequency time-series
+- **Modeling / logic:** aggregation, normalization, and recommendation signal computation
+- **Orchestration / output:** structured signals driving downstream content recommendation systems
 
-## How to run (proof)
-
+### How to run (proof)
 ```bash
 cd 04_nbcu_motif_recommendation
 python run.py
-
