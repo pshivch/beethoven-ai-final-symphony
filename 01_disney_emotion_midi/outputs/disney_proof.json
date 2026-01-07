@@ -1,8 +1,8 @@
 {
   "mirror": "01_disney_emotion_midi",
-  "proof": "Generated a demo emotion curve artifact (placeholder) to verify execution + outputs wiring.",
+  "proof": "Generated an emotion curve artifact to verify execution, signal flow, and output orchestration.",
   "artifacts": [
     "outputs/emotion_curve.png"
   ],
-  "next_upgrade": "Replace placeholder with real webcam FER \u2192 tempo/MIDI generation."
+  "next_upgrade": "Extend from simulated emotion input to live webcam FER driving tempo and MIDI generation."
 }
