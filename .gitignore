@@ -31,3 +31,8 @@ _OLD_DO_NOT_USE/
 *.save
 *~
 .DS_Store
+
+# editor backups
+*.save
+*~
+.DS_Store
