@@ -26,3 +26,8 @@ mirrors_exec/
 .DS_Store
 anaconda_projects/
 _OLD_DO_NOT_USE/
+
+# editor backups
+*.save
+*~
+.DS_Store
