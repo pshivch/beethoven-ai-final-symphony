@@ -2,7 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from pathlib import Path
 
-outdir = Path("outputs")
+BASE_DIR = Path(__file__).resolve().parent
+outdir = BASE_DIR / "outputs"
 csv_path = outdir / "latency.csv"
 png_path = outdir / "latency_hist.png"
 
