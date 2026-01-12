@@ -2,7 +2,7 @@
   "mirror": "01_disney_emotion_midi",
   "proof": "Generated an emotion curve artifact to verify execution, signal flow, and output orchestration.",
   "artifacts": [
-    "outputs/emotion_curve.png"
+    "artifacts/plots/emotion_curve.png"
   ],
   "next_upgrade": "Extend from simulated emotion input to live webcam FER driving tempo and MIDI generation."
 }
