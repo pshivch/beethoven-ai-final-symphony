@@ -10,7 +10,7 @@ def main():
     frames = np.arange(1, 101)
     latency_ms = np.random.normal(loc=45, scale=8, size=len(frames))
 
-    with open("outputs/latency.csv", "w", newline="") as f:
+    with open("artifacts/plots/latency.csv", "w", newline="") as f:
         writer = csv.writer(f)
         writer.writerow(["frame", "latency_ms"])
         for fnum, lat in zip(frames, latency_ms):
@@ -22,7 +22,7 @@ def main():
     plt.xlabel("Latency (ms)")
     plt.ylabel("Frequency")
     plt.tight_layout()
-    plt.savefig("outputs/latency_hist.png")
+    plt.savefig("artifacts/plots/latency_hist.png")
     plt.close()
 
     print("Northrop artifacts written to outputs/")
