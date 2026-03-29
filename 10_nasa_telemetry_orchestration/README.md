@@ -1,4 +1,4 @@
-## 10 — NASA: Telemetry → Mission-Aware Orchestration
+## 10 — NASA Jet Propulsion Laboratory (JPL): Telemetry → Mission-Aware Orchestration
 
 **Proof:** This mirror contains real artifacts committed to `outputs/`.
 
