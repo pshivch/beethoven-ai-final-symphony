@@ -18,7 +18,7 @@ This repository contains **10 executed AI mirrors**, each with:
 07 — Apple · Gesture → Music Systems  
 08 — Boeing · Aerospace Operations  
 09 — Northrop Grumman · Autonomous Control  
-10 — NASA · Telemetry → Orchestration  
+10 — NASA Jet Propulsion Laboratory (JPL)· Telemetry → Orchestration  
 
 ---
 
